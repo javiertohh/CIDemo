@@ -2,7 +2,6 @@ from flask import Flask, jsonify, request
 
 from duckfine import DuckFine
 
-
 app = Flask(__name__)
 
 
